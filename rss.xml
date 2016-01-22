@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Testana]]></title>
         <description><![CDATA[Testana]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 16:57:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 17:28:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testana/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://dtfjihky7xwic.cloudfront.net/sites/default/files/styles/listography_image/public/Activities/el-matador-beach-sunset_1.jpg?itok=eHKy3kC4">]]></description>
+            <link>https://thegrid.ai/testana/9e0f681f-1ec4-45a3-a39b-214436fbd09d/index.html</link>
+            <guid isPermaLink="false">9e0f681f-1ec4-45a3-a39b-214436fbd09d</guid>
+            <pubDate>Fri, 22 Jan 2016 17:16:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello, I am a physicist working at Caltech.</p>]]></description>
-            <link>undefineddc1ea2ee-44d2-4e33-85ce-c64d97bacee5/index.html</link>
+            <link>https://thegrid.ai/testana/dc1ea2ee-44d2-4e33-85ce-c64d97bacee5/index.html</link>
             <guid isPermaLink="false">dc1ea2ee-44d2-4e33-85ce-c64d97bacee5</guid>
             <pubDate>Thu, 21 Jan 2016 16:56:11 GMT</pubDate>
         </item>
